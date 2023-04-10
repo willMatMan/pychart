@@ -10,3 +10,6 @@ plt.grid()
 plt.show()
 
 
+
+#comentário
+
